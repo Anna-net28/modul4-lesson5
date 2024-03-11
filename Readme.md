@@ -6,6 +6,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Anna-net28/modul4-lesson5.git
 git push -u origin main# modul4-lesson5
+# modul4-lesson5
 git config --global core.safecrlf warn
 git config --global core.quotepath off
 git config --global init.defaultBranch main
